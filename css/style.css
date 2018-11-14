@@ -1,0 +1,36 @@
+body {
+	font-family: "Segoe UI", Tahoma, sans-serif;
+	font-size: 75%;
+}
+
+a:link {
+	color: #35465c;
+}
+
+a:visited {
+	color: #35465c;
+}
+
+a:hover {
+	color: #099dd9;
+}
+
+a:active {
+	color: #35465c;
+}
+
+.tipIcon {
+	float: left;
+	margin-right: 0px;
+	height: 16px;
+	width: 16px;
+	margin-top: 0px;
+	cursor: pointer;
+	background-size: 16px;
+	display:inline-block;
+	background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABmJLR0QA/wD/AP+gvaeTAAAAB3RJTUUH4gsNFQsyIywQNQAAArVJREFUOMtlksFrXGUUxX/3ft+bl85MOklmEtOKoZVSqu0iRVGKK90ouBRXVhEXLiouXNpFXQi1G0EX/gXt0v4LVrSCpQiCWFQQKyTW0GnSTEhm5r3vu9fFS+qiFy6cuziHc8+9svr53SVBLmpdn9e67qsZJEOzE81R28futHCCORF9EAlXxe2zmIJelLq+oJ6LoIKIcmKx5PhCi3YEslNVxvrGmH82JmQ3MOuDfxAkoAl7K+NFVqECTj/V5qVTswzHmV/uTfn13wmb48zLz/U5eaxDJUIOQsKL7HY+JmwQggCKKwx6BXc2pszPRgbdCNmYLZW9ythLYCpk9stsoFmFrI1qVmFUGccWS8YZKocswmjqoMLc4YKkQlblgKd2MIhQlgFX4bdhTVkGuu1Ipx2RKGxXxtHFkqIM++SGF7M29rMZZ4+0eH6lzfpWxfWftyEZwZxS4I3VHiv9kjPHu/z0xw6iAHogAAThSK/gm7tj3ny2S28mcO32FoU77704z6AduHFnxNH5VuNgP4b/BVwporK2m7lyc4uPzs1x6dUlgsBonPny2yHLncCTc0WTlwtgxKwKOLjhKkhQ7k0SV25u8drTh7Ds3Ph9h/HEeOJwgalgqmS8WcGCgAAumAq1wKFSeXd1llP9FuLOcjdw9fZDkkCmST88toIKlUN3JvDOmS5tFT75bpMW8OELPd4/t8APf+2ShUcZOKAH50iqbNbO6yfajDN8emubtT3j753M5e+3IAqvnOyym/zRL5gq0Yo4pE4DDcatYeKZucheZZxdLtmZZII5Cy3hwdjozyg/rk0gKtkc0XBfyq9HX0idLoSUCs1GR+F0L7DSVjoBokOdjPWHNX/enzKdGtGcgNRRwldSXh8tgXysdXpb67ofskF2JDdP1HSDW+4EdyI6jIRrMdvl/wCja0t83L/w8QAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAxOC0xMS0xM1QyMToxMTo1MC0wNTowMGQCCf0AAAAldEVYdGRhdGU6bW9kaWZ5ADIwMTgtMTEtMTNUMjE6MTE6NTAtMDU6MDAVX7FBAAAAAElFTkSuQmCC);
+}
+
+.tipIcon:hover, button:hover button.tipIcon {
+	background-position: 0px -16px;
+}
