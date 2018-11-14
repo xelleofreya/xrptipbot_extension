@@ -2,7 +2,7 @@
 Adds a button to social media site(s) for a simplified tipping experience.
 <br><br>
 Add to
-<a href="https://cnhv.co/cfrg2">Firefox</a>
+<a href="https://cnhv.co/chavi">Firefox</a>
 / Chrome (Coming soon)!
 <br><br>
 Follow <a href="https://twitter.com/xelleofreya" target="_blank">@xelleofreya</a> & <a href="https://www.xrptipbot.com/u:xelleofreya/n:twitter" target="_blank">tip</a>.
