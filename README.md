@@ -12,8 +12,8 @@ Follow <a href="https://twitter.com/xelleofreya" target="_blank">@xelleofreya</a
 [XTL: Se2KNVCat6p2Ayn8T72G8RGTcB9KdkfH78FnqSvHbmL49sqe4zvz5PePt4GCNp6HxjG8fQA46JKicXLmfAHs79if2FxoQRyky]
 <br><br>
 
-![Screenshot](screenshot.png?raw=true "Main")
-
+![Screenshot](screenshot0.png?raw=true "ss0")
+![Screenshot](screenshot1.png?raw=true "ss1")
 <img src="https://addons.cdn.mozilla.net/user-media/previews/full/211/211003.png">
 <br>
 <img src="https://addons.cdn.mozilla.net/user-media/previews/full/211/211004.png">
