@@ -9,6 +9,8 @@ Follow <a href="https://twitter.com/xelleofreya" target="_blank">@xelleofreya</a
 <br><br>
 [BTC: 18YVSeXw9vQ5WVqXTcMPimt1EsuUoD7qEc]
 <br>
+[XRP: rMfLZhNS2YaKUqrKv1dN9oLx71fKLmFGoi]
+<br>
 [XTL: Se2KNVCat6p2Ayn8T72G8RGTcB9KdkfH78FnqSvHbmL49sqe4zvz5PePt4GCNp6HxjG8fQA46JKicXLmfAHs79if2FxoQRyky]
 <br><br>
 
